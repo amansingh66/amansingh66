@@ -1,4 +1,3 @@
--  Hi, I’m @amansingh66
 -  I’m interested in DSA,OOPs
 -  I’m currently learning Java.
 
