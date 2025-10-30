@@ -46,12 +46,6 @@
   </a>
 </p>
 
-<p align="center">
-  <!-- Contribution / activity graph -->
-  <img alt="GitHub Activity Graph"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=amansingh66&bg_color=0d1117&color=00fa9a&line=1e90ff&point=ffffff&area=true&hide_border=true"
-       />
-
   <!-- Current streak (streak-stats) -->
   <br/><br/>
   <img alt="GitHub Streak"
@@ -86,7 +80,7 @@
 
 ### ⚡ Activity Graph  
 
-![Aman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amansingh66&theme=tokyo-night)
+![Aman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amansingh66&bg_color=0d1117&color=00fa9a&line=1e90ff&point=ffffff&area=true&hide_border=true)
 
 ---
 <!-- FOOTER -->
