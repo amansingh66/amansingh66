@@ -46,7 +46,7 @@
   </a>
 </p>
 
-  <!-- Current streak (streak-stats) -->
+<!-- Current streak (streak-stats) -->
   <br/><br/>
   <img alt="GitHub Streak"
        src="https://streak-stats.demolab.com?user=amansingh0816&theme=tokyonight&hide_border=true" />
