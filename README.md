@@ -69,11 +69,6 @@
 
 ---
 
-### 🐍 Contribution Snake  
-
-![GitHub Snake](https://github.com/amansingh66/amansingh66/blob/output/github-contribution-grid-snake.svg)
-
----
 
 <!-- FOOTER -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00fa9a,100:1e90ff&height=120&section=footer)
