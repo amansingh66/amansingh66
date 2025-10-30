@@ -1,5 +1,5 @@
 <!-- HEADER BANNER (optional - upload your own to GitHub and replace the link) -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:00fa9a&height=200&section=header&text=Aman%30Singh%20🚀&fontSize=20&fontColor=ffffff&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:00fa9a&height=200&section=header&text=Aman%20Singh%20🚀&fontSize=20&fontColor=ffffff&animation=twinkling)
 
 # 👋 Hey there! I'm Aman Singh  
 ### 💻 Passionate Java Developer | 🌏 From India  
