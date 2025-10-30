@@ -45,9 +45,9 @@
 </p>
 ### 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amansingh0816)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amansingh0816)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amansingh0816@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amansingh66)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aman.6s._)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amansinghrajput1848@gmail.com)
 
 ---
 
@@ -59,19 +59,19 @@
 
 ### 🏆 Achievements  
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=amansingh0816&theme=tokyonight&no-frame=true&margin-w=10)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=amansingh66&theme=tokyonight&no-frame=true&margin-w=10)
 
 ---
 
 ### ⚡ Activity Graph  
 
-![Aman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amansingh0816&theme=tokyo-night)
+![Aman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amansingh66&theme=tokyo-night)
 
 ---
 
 ### 🐍 Contribution Snake  
 
-![GitHub Snake](https://github.com/amansingh0816/amansingh0816/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://github.com/amansingh66/amansingh66/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
