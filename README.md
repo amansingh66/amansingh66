@@ -33,15 +33,15 @@
 ### 📊 GitHub Analytics  
 <p align="center">
   <a href="https://github.com/amansingh66">
-    <img src="https://github-readme-stats.vercel.app/api?username=amansingh0816&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Aman's GitHub stats" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=amansingh66&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Aman's GitHub stats" height="180"/>
   </a>
   <a href="https://github.com/amansingh66">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansingh0816&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansingh66&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=amansingh0816&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=amansingh66&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 ### 🌐 Connect with Me  
 
