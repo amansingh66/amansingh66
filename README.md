@@ -29,34 +29,9 @@
 ---
 
 ### 📊 GitHub Analytics
-
-<p align="center">
-  <!-- Full GitHub stats (show icons, include private commits) -->
-  <a href="https://github.com/amansingh66" target="_blank" rel="noopener noreferrer">
-    <img alt="Aman Singh's GitHub Stats"
-         src="https://github-readme-stats.vercel.app/api?username=amansingh66&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
-         height="160"/>
-  </a>
-
-  <!-- Top languages (compact) -->
-  <a href="https://github.com/amansingh66" target="_blank" rel="noopener noreferrer">
-    <img alt="Top Languages"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansingh66&layout=compact&theme=tokyonight&hide_border=true"
-         height="160"/>
-  </a>
-</p>
-
-<!-- Current streak (streak-stats) -->
-  <br/><br/>
-  <img alt="GitHub Streak"
-       src="https://streak-stats.demolab.com?user=amansingh0816&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <!-- GitHub trophies -->
-  <img alt="GitHub Trophies"
-       src="https://github-profile-trophy.vercel.app/?username=amansingh66&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
-</p>
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amansingh66&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amansingh66&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=amansingh66&theme=tokyonight&hide_border=true
 
 ### 🌐 Connect with Me  
 
