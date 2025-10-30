@@ -32,16 +32,16 @@
 
 <p align="center">
   <!-- Full GitHub stats (show icons, include private commits) -->
-  <a href="https://github.com/amansingh0816" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/amansingh66" target="_blank" rel="noopener noreferrer">
     <img alt="Aman Singh's GitHub Stats"
-         src="https://github-readme-stats.vercel.app/api?username=amansingh0816&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
+         src="https://github-readme-stats.vercel.app/api?username=amansingh66&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
          height="160"/>
   </a>
 
   <!-- Top languages (compact) -->
-  <a href="https://github.com/amansingh0816" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/amansingh66" target="_blank" rel="noopener noreferrer">
     <img alt="Top Languages"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansingh0816&layout=compact&theme=tokyonight&hide_border=true"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansingh66&layout=compact&theme=tokyonight&hide_border=true"
          height="160"/>
   </a>
 </p>
@@ -49,7 +49,7 @@
 <p align="center">
   <!-- Contribution / activity graph -->
   <img alt="GitHub Activity Graph"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=amansingh0816&bg_color=0d1117&color=00fa9a&line=1e90ff&point=ffffff&area=true&hide_border=true"
+       src="https://github-readme-activity-graph.vercel.app/graph?username=amansingh66&bg_color=0d1117&color=00fa9a&line=1e90ff&point=ffffff&area=true&hide_border=true"
        />
 
   <!-- Current streak (streak-stats) -->
@@ -61,7 +61,7 @@
 <p align="center">
   <!-- GitHub trophies -->
   <img alt="GitHub Trophies"
-       src="https://github-profile-trophy.vercel.app/?username=amansingh0816&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
+       src="https://github-profile-trophy.vercel.app/?username=amansingh66&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
 </p>
 
 ### 🌐 Connect with Me  
