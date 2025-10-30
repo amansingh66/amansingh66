@@ -33,6 +33,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amansingh66&layout=compact&theme=tokyonight&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=amansingh66&theme=tokyonight&hide_border=true)
 
+---
+
 ### 🌐 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amansingh66)
