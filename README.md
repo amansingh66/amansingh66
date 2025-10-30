@@ -31,13 +31,18 @@
 ---
 
 ### 📊 GitHub Analytics  
+<p align="center">
+  <a href="https://github.com/amansingh0816">
+    <img src="https://github-readme-stats.vercel.app/api?username=amansingh0816&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Aman's GitHub stats" height="180"/>
+  </a>
+  <a href="https://github.com/amansingh0816">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansingh0816&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+  </a>
+</p>
 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amansingh0816&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amansingh0816&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=amansingh0816&theme=tokyonight&hide_border=true)
-
----
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amansingh0816&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 ### 🌐 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amansingh0816)
