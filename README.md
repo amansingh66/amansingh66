@@ -12,7 +12,7 @@
 - 🎯 Focused on *Backend Development*  
 - 💬 Ask me about *Java, APIs, SQL, and DSA*  
 - 🎨 I love adding *beautiful UI and animations* to my projects  
-- 📫 Reach me at *amansinghrajput1848@gmail.com*
+- 📫 Reach me at *contactamansingh66@gmail.com*
 
 ---
 
