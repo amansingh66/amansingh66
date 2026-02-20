@@ -62,11 +62,8 @@
 
 ## 🧠 TryHackMe Progress  
 
-<p align="center">
-  <a href="https://tryhackme.com/p/AmanSingh66">
-    <img src="assets/tryhackme-proof.png" width="700"/>
-  </a>
-</p>
+![image (1)](https://github.com/user-attachments/assets/74c85e0c-3de0-4296-a4d7-34022f81d8c6)
+
 
 ---
 
