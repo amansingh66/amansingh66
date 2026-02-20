@@ -42,7 +42,6 @@
 ![Azure AD](https://img.shields.io/badge/Azure_AD-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge)
 ![Zero Trust](https://img.shields.io/badge/Zero_Trust-00FF9C?style=for-the-badge)
-
 ![Okta](https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white)
 ![SailPoint](https://img.shields.io/badge/SailPoint-1C4C9C?style=for-the-badge)
 ![CyberArk](https://img.shields.io/badge/CyberArk-000000?style=for-the-badge)
