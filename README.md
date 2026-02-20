@@ -50,8 +50,7 @@
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/AmanSingh66.png)](https://tryhackme.com/p/AmanSingh66)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge\&logo=hackthebox\&logoColor=black)](https://app.hackthebox.com/profile/YOUR_ID)
 
----<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6801619" style='border:none;'></iframe>
-<img src="https://tryhackme-badges.s3.amazonaws.com/AmanSingh66.png" alt="Your Image Badge" />
+---
 
 ### 🧠 Cyber Security Roadmap
 
