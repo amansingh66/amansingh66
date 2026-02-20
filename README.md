@@ -75,13 +75,19 @@
 
 * Identity Fundamentals
 * Authentication vs Authorization
+* Identity Lifecycle Management (Joiner–Mover–Leaver)
 * Active Directory & LDAP
-* SSO & Federation
+* SSO & Federation (SAML)
 * MFA & Passwordless Security
 * OAuth2 / OpenID Connect
-* RBAC / ABAC / PBAC
-* Privileged Access Management (PAM)
+* RBAC / ABAC / PBAC Access Models
+* Privileged Access Management (CyberArk basics)
+* Identity Governance & Administration (SailPoint concepts)
+* Provisioning & De-Provisioning Workflows
+* Okta & Azure AD Administration
+* ServiceNow IAM Integration
 * Zero Trust Architecture
+* IAM Auditing & Compliance (SOX, GDPR basics)
 
 ---
 
