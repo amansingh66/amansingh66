@@ -58,6 +58,7 @@
 ---
 
 ## 🧠 TryHackMe Progress  
+![image (1)](https://github.com/user-attachments/assets/ebc661bc-0599-486a-9820-c8cac91d4b07)
 
 <p align="center">
 <img src="https://tryhackme-badges.s3.amazonaws.com/AmanSingh66.png" />
