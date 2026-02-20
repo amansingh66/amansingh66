@@ -59,7 +59,11 @@
 
 ## 🧠 TryHackMe Progress  
 ![image (1)](https://github.com/user-attachments/assets/ebc661bc-0599-486a-9820-c8cac91d4b07)
-
+<p align="center">
+  <a href="https://tryhackme.com/p/AmanSingh66">
+    <img src="assets/tryhackme-proof.png" width="700"/>
+  </a>
+</p>
 ---
 
 ### 🧠 Cyber Security Roadmap
