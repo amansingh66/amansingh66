@@ -69,9 +69,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amansingh66&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=30" height="165"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amansingh66&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansingh66&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=30" height="165"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amansingh66&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </p>
 ---
