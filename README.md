@@ -1,7 +1,7 @@
 <!-- HEADER -->
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:00fa9a&height=190&section=header&text=Aman%20Singh%20🛡️&fontSize=70&fontColor=ffffff&animation=twinkling)
-[![Aman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amansingh66)](https://git.io/J1Ycx)
+
 ## 💻 IAM Security Console  
 
 <p align="center">
@@ -100,7 +100,7 @@
 
 ### ⚡ Activity Graph
 
-![Aman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amansingh66&bg_color=0d1117&color=00fa9a&line=1e90ff&point=ffffff&area=true&hide_border=true)
+[![Aman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=praveenscience)](https://git.io/J1Ycx)
 
 ---
 
