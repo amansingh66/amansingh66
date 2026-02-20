@@ -67,9 +67,13 @@
 
 ### 📊 GitHub Analytics
 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amansingh66\&show_icons=true\&theme=tokyonight\&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amansingh66\&layout=compact\&theme=tokyonight\&hide_border=true)
+<p align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=amansingh66&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=30" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansingh66&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=30" height="165"/>
+
+</p>
 ---
 
 ### 🌐 Connect with Me
