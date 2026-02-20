@@ -46,7 +46,6 @@
 ![SailPoint](https://img.shields.io/badge/SailPoint-1C4C9C?style=for-the-badge)
 ![CyberArk](https://img.shields.io/badge/CyberArk-000000?style=for-the-badge)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-00A859?style=for-the-badge&logo=servicenow&logoColor=white)
-
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ---
