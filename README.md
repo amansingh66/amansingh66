@@ -4,7 +4,7 @@
 ## 💻 Hacker Console  
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FF9C&background=000000&center=true&vCenter=true&width=750&lines=Booting+Security+System...;User:+Aman+Singh;Access+Level:+Cyber+Security+Enthusiast;Scanning+Network...;No+Vulnerabilities+Ignored...;Welcome+to+the+Matrix+🛡️" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FF9C&background=000000&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub..!;Booting+Security+System...;User:+Aman+Singh;Access+Level:+Cyber+Security+Enthusiast;Scanning+Network...;No+Vulnerabilities+Ignored...;Welcome+to+the+Matrix+🛡️" />
 </p>
 
 # 👋 Hey there! I'm Aman Singh
