@@ -8,7 +8,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FF9C&background=000000&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub..!;Booting+Identity+Security+System...;User:+Aman+Singh;Access+Level:+IAM+Security+Enthusiast;Authenticating+Users...;Authorizing+Access...;Zero+Trust+Mode+Enabled+🛡️" />
 </p>
 
-# 👋 Hey there! I'm Aman Singh
+# 👋 Hey there! I'm Aman Singh <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 ### 🔐 Identity & Access Management (IAM) Enthusiast | 🌏 From India
 
