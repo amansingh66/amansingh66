@@ -109,6 +109,8 @@
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
+![Alt Text](https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif)
+
 <!-- FOOTER -->
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00fa9a,100:1e90ff&height=120&section=footer)
