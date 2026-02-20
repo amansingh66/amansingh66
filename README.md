@@ -104,6 +104,9 @@
 
 ---
 
+<div align="center">
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+
 <!-- FOOTER -->
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00fa9a,100:1e90ff&height=120&section=footer)
