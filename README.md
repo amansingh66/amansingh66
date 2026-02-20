@@ -1,6 +1,11 @@
 <!-- HEADER -->
 
 ![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:1e90ff,100:00fa9a\&height=190\&section=header\&text=Aman%20Singh%20🛡️\&fontSize=70\&fontColor=ffffff\&animation=twinkling)
+## 💻 Hacker Console  
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FF9C&background=000000&center=true&vCenter=true&width=750&lines=Booting+Security+System...;User:+Aman+Singh;Access+Level:+Cyber+Security+Enthusiast;Scanning+Network...;No+Vulnerabilities+Ignored...;Welcome+to+the+Matrix+🛡️" />
+</p>
 
 # 👋 Hey there! I'm Aman Singh
 
@@ -51,6 +56,12 @@
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge\&logo=hackthebox\&logoColor=black)](https://app.hackthebox.com/profile/YOUR_ID)
 
 ---
+
+## 🧠 TryHackMe Progress  
+
+<p align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/AmanSingh66.png" />
+</p>
 
 ### 🧠 Cyber Security Roadmap
 
