@@ -65,17 +65,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amansingh66&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amansingh66&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</p>
----
-
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/amansingh66)
