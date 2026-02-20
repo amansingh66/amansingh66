@@ -47,7 +47,7 @@
 
 ### 🧠 Cyber Platforms
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/YOUR_USERNAME.png)](https://tryhackme.com/p/YOUR_USERNAME)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/AmanSingh66.png)](https://tryhackme.com/p/AmanSingh66)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge\&logo=hackthebox\&logoColor=black)](https://app.hackthebox.com/profile/YOUR_ID)
 
 ---
