@@ -100,7 +100,7 @@
 
 ### ⚡ Activity Graph
 
-[![Aman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=praveenscience)](https://git.io/J1Ycx)
+[![Aman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amansingh66)](https://git.io/J1Ycx)
 
 ---
 
