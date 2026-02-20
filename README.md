@@ -104,6 +104,8 @@
 
 ---
 
+[![@amansingh66's Holopin board](https://holopin.me/amansingh66)](https://holopin.io/@amansingh66)
+
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
