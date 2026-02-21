@@ -126,9 +126,7 @@
 
 
 
-<table align="center" border="1">
-<tr align="center">
-<td colspan="3"><img align="left" src="https://github-readme-stats.vercel.app/api?username=amansingh66&theme=tokyonight&show_icons=true" /></td>
+<
 </tr>
 <tr align="center">
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansingh66&theme=tokyonight&show_icons=true" /></td>
