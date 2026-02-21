@@ -124,9 +124,7 @@
   
 <br/>
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=amansingh66&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <table align="center" border="1">
 <tr align="center">
@@ -151,5 +149,4 @@
   <h1 align="center">Summary Of My Github Live Graph</h1>
 </p>  
 
-[![contributions](https://activity-graph.herokuapp.com/graph?username=amansingh66&theme=xcode&area=true)](https://github.com/amansingh66)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amansingh66&theme=github_dark)
