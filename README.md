@@ -114,3 +114,42 @@
 <!-- FOOTER -->
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00fa9a,100:1e90ff&height=120&section=footer)
+
+
+---
+
+
+<h1 align="center">Summary Of My Github Status</h1>
+</p>
+  
+<br/>
+
+ [![trophy](https://github-profile-trophy.vercel.app/?username=amansingh66&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<table align="center" border="1">
+<tr align="center">
+<td colspan="3"><img align="left" src="https://github-readme-stats.vercel.app/api?username=amansingh66&theme=tokyonight&show_icons=true" /></td>
+</tr>
+<tr align="center">
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansingh66&theme=tokyonight&show_icons=true" /></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amansingh66&theme=github_dark" /></td>
+<td colspan="3"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amansingh66&theme=github_dark"/></td>
+</tr>
+<tr align="center">
+<td colspan="3"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amansingh66&theme=github_dark"/></td>
+</tr>
+<tr align="center">
+<td colspan="3"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amansingh66&" alt="naemazam" /></td>
+</tr>
+</table>
+  
+
+  
+ <p align="center">
+  <h1 align="center">Summary Of My Github Live Graph</h1>
+</p>  
+
+[![contributions](https://activity-graph.herokuapp.com/graph?username=amansingh66&theme=xcode&area=true)](https://github.com/amansingh66)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amansingh66&theme=github_dark)
